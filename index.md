@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "AI/ML Integration in 5G and Beyond"
-subtitle: "Architecture and Prototypes"
-use-site-title: true
+use-site-title: false
 ---
+
+<h1 style="font-size: 60px; text-align: center;">"AI/ML Integration in 5G and Beyond: Architecture and Prototypes"</h1>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <span style="font-size: 23px; font-weight: 300;">
