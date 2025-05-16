@@ -2,7 +2,7 @@
 title: "AI/ML Integration in 5G and Beyond: Architecture and Prototypes"
 ---
 
-# AI/ML Integration in 5G and Beyond: Architecture and Prototypes
+### 🔗 [Tutorial Slides](docs/slides.pdf)
 
 ## 📚 Description
 
@@ -12,15 +12,17 @@ Following the 3GPP perspective, in this tutorial, we start from 5G CN and move t
 
 ## 👩‍🏫 Authors
 
-- ![](figures/dejan) [Dr. Dejan Vukobratovic](https://sites.google.com/view/vukobratovic)
-- ![](figures/carolina) [Dr. Carolina Fortuna](https://sensorlab.ijs.si)
+<img src="/figures/dejan.jpg" alt="Author Photo" style="border-radius: 50%; width:120px;">
+<img src="/figures/carolina.png" alt="Author Photo" style="border-radius: 50%; width:120px;">
+
+![](figures/dejan.pdf) [Dr. Dejan Vukobratovic](https://sites.google.com/view/vukobratovic)
+![](figures/carolina.png) [Dr. Carolina Fortuna](https://sensorlab.ijs.si)
 
 
 ---
 
 ## 📂 Resources
 
-### 🔗 [Tutorial Slides (PDF)](https://example.com/slides.pdf)
 
 ### 📝 Key Papers
 - [Paper 1 Title](https://doi.org/xxx)
