@@ -18,17 +18,9 @@ use-site-title: false
   <!-- <br> 
   <div class="row"> -->
   <div class="row">
-    {% for p in site.presenters.data %}
+    {% for p in site.data.presenters %}
     {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
-  <div class="row">
-    {% for p in site.presenters.data %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>4 and forloop.index<=8%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
