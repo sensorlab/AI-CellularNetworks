@@ -12,6 +12,8 @@ use-site-title: false
   </span>
 </div>
 
+<div class="sharethis-inline-share-buttons"></div>
+
 ---
 
 ## Presenters
