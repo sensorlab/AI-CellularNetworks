@@ -1,0 +1,13 @@
+dejan:
+    name: "Dejan Vukobratovic"
+    url: "https://sites.google.com/view/vukobratovic"
+    affiliation: "University of Novi Sad"
+    img: "dejan.pdf"
+    bio: "Dr Dejan Vukobratović received a PhD.degree in electrical engineering from University of Novi Sad, Serbia, in 2008, where he is currently a Full Professor. During 2009-2010, he was Marie Curie postdoctoral fellow at the University of Strathclyde, Glasgow, UK, after which he was supported by 3-year Marie Curie Reintegration Grant. He has published more than 50 journal papers and 100 conference papers in top-tier IEEE journals and conferences. He received a best paper award at IEEE MMSP 2010 and IEEE SmartGridComm 2017. He was TPC Co-Chair of IEEE VTC Spring 2020 (Antwerp) and IEEE SmartGridComm 2022 (Singapore), Symposia Chair on IEEE SmartGridComm 2021 (Aachen) and IEEE International Conference on Communications 2023 (Rome), he was General Chair for BalkanCom 2021 (Novi Sad), IEEE CSCN 2024 (Belgrade) and FCN 2025 (Belgrade). His research group was involved in a number of EU and national projects (H2020 C4IIoT, H2020 COLLABS, H2020 SENSIBLE, HE REMARKABLE), and he was the coordinator of the H2020 project INCOMING. He is Editor for IEEE Transactions on Communications. His research interests include wireless communications, signal processing, machine learning and information theory applied in mobile cellular systems (5G and beyond 5G) and IoT communications."
+
+carolina:
+    name: "Carolina Fortuna"
+    url: "https://sensorlab.ijs.si"
+    affiliation: "Jozef Stefan Institute"
+    img: "carolina.jpeg"
+    bio: "Dr. Carolina Fortuna has more than 15 years experience at the intersection of AI and communication networks. She is a research associate professor with the Jozef Stefan Institute where she leads Sensorlab. She was a post-doctoral researcher with Ghent University, Belgium and a visiting researcher at Stanford University, USA. She has led teams in EU funded projects such as HE NANCY, H2020 NRG5, eWINE, WISHFUL, FP7 CREW, Planetdata, ACTIVE, under various positions while participating in more than 20 such projects. She has advised/coadvised 10+ M.Sc. and Ph.D. students. She has consulted for public and private institutions and coauthored over 100 peer reviewed papers including in IEEE COMST, IEEE TNNLS, IEEE WICOM Magazine, IEEE OJCOMS. Dr. Fortuna contributed to community work as a TPC member, the track chair, and a reviewer at several IEEE conferences including ISWC, EuCNC, Globecom and ICC. Her research interest include developing the next generation smart infrastructures that surround us and improve the quality of our life."
