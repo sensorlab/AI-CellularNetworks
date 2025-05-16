@@ -12,7 +12,9 @@ use-site-title: false
   </span>
 </div>
 
-## Authors
+---
+
+## Presenters
 
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <!-- <br> 
@@ -26,7 +28,6 @@ use-site-title: false
     {% endfor %}
   </div>
 </div>
-<hr>
 
 ---
 
