@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AI/ML Integration in 5G and Beyond"
-subtitle: "Architecture and Prototype"
+subtitle: "Architecture and Prototypes"
 use-site-title: true
 ---
 
@@ -42,12 +42,12 @@ use-site-title: true
 Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually being integrated in modern 3GPP standardized cellular networks. The process is initiated by introducing AI/ML functions in the 5G core network (5G CN) and from there, it is expanding towards AI-enabled 5G radio access network (RAN). AI/ML is currently at the early stage of design within 3GPP standardisation and many pathways for its impact are still open. In this talk, we present an overview of AI/ML integration in 5G and Beyond. Following the 3GPP perspective, we start from 5G CN and move towards 5G RAN, focusing on AI/ML impact on 5G and B5G physical layer design. We also cover complementary work done by Open RAN (O-RAN) Alliance. The tutorial is extended with demonstration of several use cases and applications of AI/ML integration in 5G/B5G.
 
 ### Topics:
-	Integration of AI/ML in 5G Core Network
-	Integration of AI/ML in 5G Radio Access Network
-	AI/ML for the 5G Physical Layer
-	AI/ML in 5G Services and Applications
-	AI/ML for 5G Network Management and Orchestration
-	Examples of AI/ML in 5G/B5G Use Cases Throughout the Tutorial
+-	Integration of AI/ML in 5G Core Network
+-	Integration of AI/ML in 5G Radio Access Network
+-	AI/ML for the 5G Physical Layer
+-	AI/ML in 5G Services and Applications
+-	AI/ML for 5G Network Management and Orchestration
+-	Examples of AI/ML in 5G/B5G Use Cases Throughout the Tutorial
 
 
 ---
