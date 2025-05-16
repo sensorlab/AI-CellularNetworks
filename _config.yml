@@ -1,5 +1,28 @@
-title: "AI/ML Integration in 5G and Beyond: Architecture and Prototypes"
+# Name of website
+title: AI/ML Integration in 5G and Beyond
+# Short description of your site
+description: AI-Cellular
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+avbar-links:
+  Slides: 
+  - Download: ./docs/tutportal.pdf
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
+
+# prose.io config
+prose:
+  rooturl: "_posts"
+  media: "img"
+  ignore:
+    - _config.yml
+    - /img
