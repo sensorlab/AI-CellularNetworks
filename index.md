@@ -3,8 +3,8 @@ layout: page
 use-site-title: false
 ---
 
-<h1 style="font-size: 60px; text-align: center;">AI/ML Integration in 5G and Beyond</h1>
-<h2 style="font-size: 60px; text-align: center;">Architecture and Prototypes</h2>
+<h1 style="font-size: 40px; text-align: center;">AI/ML Integration in 5G and Beyond</h1>
+<h2 style="font-size: 20px; text-align: center;">Architecture and Prototypes</h2>
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <span style="font-size: 23px; font-weight: 300;">
