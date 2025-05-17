@@ -31,7 +31,7 @@ use-site-title: false
   </div>
 </div>
 
-![Carolina](/img/carolina.jpeg){: .rounded-circle .img-fluid }
+![Carolina](/img/carolina.jpeg){: .rounded-circle .img-fluid style="width: 200px; height: 200px;"}
 
 ---
 
