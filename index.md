@@ -18,21 +18,20 @@ use-site-title: false
 
 ## Presenters
 
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <!-- <br> 
-  <div class="row"> -->
-  <div class="row">
-    {% for p in site.data.presenters %}
-    {% if forloop.index<=4 %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
+<div class="row text-center">
+  <div class="col-md-6">
+    <figure class="figure">
+        ![Dejan](/img/dejan.pdf){: .rounded-circle .img-fluid style="width: 200px;}
+        <figcaption class="figure-caption"> [University of Novi Sad](https://sites.google.com/view/vukobratovic)</figcaption>
+    </figure>
+  </div>
+  <div class="col-md-6">
+    <figure class="figure">
+        ![Carolina](/img/carolina.jpeg){: .rounded-circle .img-fluid style="width: 200px;}
+        <figcaption class="figure-caption">[Jozef Stefan Institute](https://sensorlab.ijs.si)</figcaption>
+    </figure>
   </div>
 </div>
-
-![Carolina](/img/carolina.jpeg){: .rounded-circle .img-fluid style="width: 200px; height: 200px;"}
-
 ---
 
 ## About the Tutorial

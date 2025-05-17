@@ -12,17 +12,11 @@ avbar-links:
   Slides: 
   - Download: ./docs/tutportal.pdf
 
+share: true
+
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
   google: false
   linkedin: true
-
-# prose.io config
-prose:
-  rooturl: "_posts"
-  media: "img"
-  ignore:
-    - _config.yml
-    - /img
