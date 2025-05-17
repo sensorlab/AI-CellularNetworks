@@ -31,6 +31,8 @@ use-site-title: false
   </div>
 </div>
 
+![Carolina](/img/carolina.png){: .rounded-circle .img-fluid }
+
 ---
 
 ## About the Tutorial
