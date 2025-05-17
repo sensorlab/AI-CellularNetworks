@@ -21,7 +21,7 @@ use-site-title: false
 <div class="row text-center">
   <div class="col-md-6">
     <figure class="figure">
-    <img src="/img/dejan.pdf" 
+    <img src="https://sensorlab.github.io/AI-CellularNetworks/img/dejan.pdf" 
            alt="Dejan" 
            class="figure-img img-fluid rounded-circle" 
            style="width: 150px; height: 150px; object-fit: cover;"> 
@@ -32,7 +32,7 @@ use-site-title: false
   </div>
   <div class="col-md-6">
     <figure class="figure">
-        <img src="/img/carolina.jpeg" 
+        <img src="https://sensorlab.github.io/AI-CellularNetworks/img/carolina.jpeg" 
            alt="Carolina" 
            class="figure-img img-fluid rounded-circle" 
            style="width: 150px; height: 150px; object-fit: cover;"> 
