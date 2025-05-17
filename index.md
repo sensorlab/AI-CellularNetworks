@@ -12,11 +12,10 @@ use-site-title: false
   </span>
 </div>
 
-<div class="sharethis-inline-share-buttons"></div>
-
 ---
 
 ## Presenters
+
 
 <div class="row text-center">
   <div class="col-md-6">
@@ -24,7 +23,7 @@ use-site-title: false
     <img src="https://sensorlab.github.io/AI-CellularNetworks/img/dejan.pdf" 
            alt="Dejan" 
            class="figure-img img-fluid rounded-circle" 
-           style="width: 150px; height: 150px; object-fit: cover;"> 
+           style="width: 200px; height: 200px; object-fit: cover;"> 
         <figcaption class="figure-caption"> Dr. Dejan Vukobratovic <br>
             <a href="https://sites.google.com/view/vukobratovic" target="_blank" rel="noopener noreferrer">University of Novi Sad</a>
         </figcaption>
@@ -35,7 +34,7 @@ use-site-title: false
         <img src="https://sensorlab.github.io/AI-CellularNetworks/img/carolina.jpeg" 
            alt="Carolina" 
            class="figure-img img-fluid rounded-circle" 
-           style="width: 150px; height: 150px; object-fit: cover;"> 
+           style="width: 200px; height: 200px; object-fit: cover;"> 
         <figcaption class="figure-caption">Dr. Carolina Fortuna <br>
              <a href="https://sensorlab.ijs.si" target="_blank" rel="noopener noreferrer">Jozef Stefan Institute</a>
         </figcaption>
