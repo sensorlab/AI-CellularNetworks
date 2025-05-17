@@ -21,14 +21,24 @@ use-site-title: false
 <div class="row text-center">
   <div class="col-md-6">
     <figure class="figure">
-        ![Dejan](/img/dejan.pdf){: .rounded-circle .img-fluid style="width: 200px;}
-        <figcaption class="figure-caption"> [University of Novi Sad](https://sites.google.com/view/vukobratovic)</figcaption>
+    <img src="/img/dejan.pdf" 
+           alt="Dejan" 
+           class="figure-img img-fluid rounded-circle" 
+           style="width: 150px; height: 150px; object-fit: cover;"> 
+        <figcaption class="figure-caption"> Dr. Dejan Vukobratovic <br>
+            <a href="https://sites.google.com/view/vukobratovic" target="_blank" rel="noopener noreferrer">University of Novi Sad</a>
+        </figcaption>
     </figure>
   </div>
   <div class="col-md-6">
     <figure class="figure">
-        ![Carolina](/img/carolina.jpeg){: .rounded-circle .img-fluid style="width: 200px;}
-        <figcaption class="figure-caption">[Jozef Stefan Institute](https://sensorlab.ijs.si)</figcaption>
+        <img src="/img/carolina.jpeg" 
+           alt="Carolina" 
+           class="figure-img img-fluid rounded-circle" 
+           style="width: 150px; height: 150px; object-fit: cover;"> 
+        <figcaption class="figure-caption">Dr. Carolina Fortuna <br>
+             <a href="https://sensorlab.ijs.si" target="_blank" rel="noopener noreferrer">Jozef Stefan Institute</a>
+        </figcaption>
     </figure>
   </div>
 </div>
