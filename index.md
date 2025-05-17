@@ -31,7 +31,7 @@ use-site-title: false
   </div>
 </div>
 
-![Carolina](/AI-CellularNetworks/img/carolina.png){: .rounded-circle .img-fluid }
+![Carolina](/img/carolina.jpeg){: .rounded-circle .img-fluid }
 
 ---
 
