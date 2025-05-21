@@ -62,11 +62,28 @@ Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually be
 
 
 ### 📝 Key Papers
-- [Paper 1 Title](https://doi.org/xxx)
-- [Paper 2 Title](https://doi.org/xxx)
+- [Democratizing the Network Edge (ACM SIGCOMM Computer Communication Review)](https://doi.org/10.1145/3336937.3336942)
+- [Private 5G: The future of industrial wireless (IEEE Industrial Electronics Magazine)](https://doi.org/10.1109/MIE.2020.3004975)
+- [An Overview and Solution for Democratizing AI Workflows at the Network Edge (Journal of Network and Computer Applications)](https://doi.org/10.1016/j.jnca.2025.104180)
+- [A Representation Learning Approach to Feature Drift Detection in Wireless Networks​](https://doi.org/10.48550/arXiv.2505.10325)
+- [The carbon impact of artificial intelligence (Nature Machine Intelligence)](https://doi.org/10.1038/s42256-020-0219-9)
+- [Energy consumption in data centres and broadband communication networks in the EU (Publications Office of the European Union)](https://doi.org/10.2760/706491)
+- [The Energy Cost of Artificial Intelligence Lifecycle in Communication Networks](https://arxiv.org/abs/2408.00540)
+- [A survey of wireless path loss prediction and coverage mapping methods (IEEE Communications Surveys & Tutorials)](https://doi.org/10.1109/SURV.2012.022412.00172)
+- [Scientific discovery in the age of artificial intelligence (Nature)](https://doi.org/10.1038/s41586-023-06221-2​)
+- [Towards Automated and Interpretable Pathloss Approximation Methods (AI4WCN)](https://openreview.net/pdf?id=M1WT5NZ4bj)
+- [Demonstrating Smart Scaling of AI-Services for Future Networks](https://doi.org/10.1109/WCNC61545.2025.10978455)
+
+
+
+
+
+
 
 ### 💻 Code Repositories
-- [GitHub Repo 1](https://github.com/yourname/repo1)
-- [GitHub Repo 2](https://github.com/yourname/repo2)
+- [NAOMI: Network AI Workflow Democratization](https://github.com/sensorlab/NAOMI)
+- [O-RAN Gerrit](https://gerrit.o-ran-sc.org/r/admin/repos/)
+- [MRM3: Machine Readable ML Model Metadata](https://github.com/sensorlab/MRM3) [[Dataset]](https://doi.org/10.5281/zenodo.15235417)
+- [eCAL](https://github.com/sensorlab/eCAL)
 
 
