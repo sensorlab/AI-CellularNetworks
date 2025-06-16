@@ -117,7 +117,15 @@ Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually be
 - [Enabling mobile AI agent in 6G era: Architecture and key technologies (IEEE Network)](https://ieeexplore.ieee.org/iel8/65/10680059/10599391.pdf)
 - [Intent-based management of next-generation networks: An LLM-centric approach (IEEE Network)](https://ieeexplore.ieee.org/iel8/65/7593428/10574890.pdf)
 - [Mobile-llama: Instruction fine-tuning open-source llm for network analysis in 5g networks (IEEE Network)](https://ieeexplore.ieee.org/iel8/65/7593428/10583947.pdf)
-
+- [TS 23.501, “System architecture for the 5G System (5GS),”](https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/)
+- [TS 29.520, “5G System; Network Data Analytics Services; Stage 3,”](https://www.etsi.org/deliver/etsi_ts/129500_129599/129552/18.06.00_60/ts_129552v180600p.pdf)
+- [TR23.700-80 Study on 5G System Support for AI/ML-based Services](https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-80/)
+- [TR23.700-81 Study of Enablers for Network Automation for the 5G System (5GS)](https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-81/)
+- [TS 38.401, “NG-RAN Architecture Description,”](https://www.3gpp.org/ftp/Specs/archive/38_series/38.401/)
+- [TR 37.817, “Study on enhancement for data collection for NR and EN-DC,”](https://www.3gpp.org/ftp/Specs/archive/37_series/37.817/)
+- [TR 38.843, “Study on artificial intelligence (AI)/machine learning (ML) for NR air interface,”](https://www.3gpp.org/ftp/Specs/archive/38_series/38.843/)
+- [TR22.874, “Study on traffic characteristics and performance requirements for AI/ML model transfer,”](https://www.3gpp.org/ftp/Specs/archive/22_series/22.874/)
+- [TS22.261, “Service requirements for the 5G system,”](https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/)
 
 
 
