@@ -8,7 +8,7 @@ use-site-title: false
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <span style="font-size: 23px; font-weight: 300;">
-    <a target="_blank" href="https://www.dropbox.com/scl/fi/cqsuuuckqfk4fp2q1e70e/AI_ML_B5G_BalkanCom_2025_All.pdf">[Slides]</a>
+    <a target="_blank" href="https://www.dropbox.com/scl/fi/cqsuuuckqfk4fp2q1e70e/AI_ML_B5G_BalkanCom_2025_All.pdf?rlkey=ou11qtf8zfg6x53a2r0ju6q7y&st=6evk2nvq&dl=0">[Slides]</a>
   </span>
 </div>
 
