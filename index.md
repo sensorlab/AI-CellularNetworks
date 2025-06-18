@@ -62,17 +62,10 @@ Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually be
 
 
 ### 📝 Key Papers
-- [Democratizing the Network Edge (ACM SIGCOMM Computer Communication Review)](https://doi.org/10.1145/3336937.3336942)
+
+
+### AI/ML in the Core Network
 - [Private 5G: The future of industrial wireless (IEEE Industrial Electronics Magazine)](https://doi.org/10.1109/MIE.2020.3004975)
-- [An Overview and Solution for Democratizing AI Workflows at the Network Edge (Journal of Network and Computer Applications)](https://doi.org/10.1016/j.jnca.2025.104180)
-- [A Representation Learning Approach to Feature Drift Detection in Wireless Networks​](https://doi.org/10.48550/arXiv.2505.10325)
-- [The carbon impact of artificial intelligence (Nature Machine Intelligence)](https://doi.org/10.1038/s42256-020-0219-9)
-- [Energy consumption in data centres and broadband communication networks in the EU (Publications Office of the European Union)](https://doi.org/10.2760/706491)
-- [The Energy Cost of Artificial Intelligence Lifecycle in Communication Networks](https://arxiv.org/abs/2408.00540)
-- [A survey of wireless path loss prediction and coverage mapping methods (IEEE Communications Surveys & Tutorials)](https://doi.org/10.1109/SURV.2012.022412.00172)
-- [Scientific discovery in the age of artificial intelligence (Nature)](https://doi.org/10.1038/s41586-023-06221-2​)
-- [Towards Automated and Interpretable Pathloss Approximation Methods (AI4WCN)](https://openreview.net/pdf?id=M1WT5NZ4bj)
-- [Demonstrating Smart Scaling of AI-Services for Future Networks](https://doi.org/10.1109/WCNC61545.2025.10978455)
 - [Towards supporting intelligence in 5G/6G core networks: NWDAF implementation and initial analysis (IWCMC 2022)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9824403)
 - [AI-Driven Provisioning in the 5G Core (IEEE Internet Computing)](https://ieeexplore.ieee.org/iel7/4236/5226613/09345397.pdf)
 - [Scaling Network Slices with a 5G Testbed: A Resource Consumption Study (WCNC)](https://ieeexplore.ieee.org/iel7/9771381/9771540/09771860.pdf)
@@ -81,7 +74,20 @@ Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually be
 - [Network Architecture for Machine Learning: A Network Operator's Perspective (IEEE Communications Magazine)](https://ieeexplore.ieee.org/iel7/35/9831128/09779644.pdf)
 - [Mobility prediction for 5G core networks (IEEE Communications Standards Magazine)](https://ieeexplore.ieee.org/iel7/7886829/9392774/09392779.pdf)
 - [Data analytics architectural framework for smarter radio resource management in 5G radio access networks (IEEE Communications Magazine)](https://ieeexplore.ieee.org/iel7/35/9112723/09112751.pdf)
+
 - [End-to-end data analytics framework for 5G architecture (IEEE Access)](https://ieeexplore.ieee.org/iel7/6287639/8600701/08660442.pdf)
+- [TS 23.501, “System architecture for the 5G System (5GS),”](https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/)
+- [TS 29.520, “5G System; Network Data Analytics Services; Stage 3,”](https://www.etsi.org/deliver/etsi_ts/129500_129599/129552/18.06.00_60/ts_129552v180600p.pdf)
+- [TR23.700-80 Study on 5G System Support for AI/ML-based Services](https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-80/)
+- [TR23.700-81 Study of Enablers for Network Automation for the 5G System (5GS)](https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-81/)
+### AI/ML in the RAN
+- [Democratizing the Network Edge (ACM SIGCOMM Computer Communication Review)](https://doi.org/10.1145/3336937.3336942)
+- [An Overview and Solution for Democratizing AI Workflows at the Network Edge (Journal of Network and Computer Applications)](https://doi.org/10.1016/j.jnca.2025.104180)
+-  [A Representation Learning Approach to Feature Drift Detection in Wireless Networks​](https://doi.org/10.48550/arXiv.2505.10325)
+- [The carbon impact of artificial intelligence (Nature Machine Intelligence)](https://doi.org/10.1038/s42256-020-0219-9)
+- [Energy consumption in data centres and broadband communication networks in the EU (Publications Office of the European Union)](https://doi.org/10.2760/706491)
+- [The Energy Cost of Artificial Intelligence Lifecycle in Communication Networks](https://arxiv.org/abs/2408.00540)
+- [MRM3: Machine Readable ML Model Metadata](https://arxiv.org/pdf/2505.13343)
 - [Understanding O-RAN: Architecture, interfaces, algorithms, security, and research challenges (IEEE Communications Surveys & Tutorials)](https://ieeexplore.ieee.org/iel7/9739/5451756/10024837.pdf)
 - [Intelligent O-RAN beyond 5g: Architecture, use cases, challenges, and opportunities (IEEE Access)](https://ieeexplore.ieee.org/iel7/6287639/10380310/10439167.pdf)
 - [Enabling Real-Time AI-Based Open RAN Control](https://arxiv.org/pdf/2501.16502)
@@ -90,6 +96,14 @@ Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually be
 - [Prototyping next-generation O-RAN research testbeds with SDRs](https://arxiv.org/pdf/2205.13178)
 - [ColO-RAN: Developing Machine Learning-based xApps for Open RAN Closed-loop Control on Programmable Experimental Platforms (IEEE Trans. Mobile Computing)](https://ieeexplore.ieee.org/iel7/7755/4358975/09814869.pdf)
 - [AI-RAN Alliance Vision and Mission White Paper](https://ai-ran.org/wp-content/uploads/2024/12/AI-RAN_Alliance_Whitepaper.pdf)
+- [TS 38.401, “NG-RAN Architecture Description,”](https://www.3gpp.org/ftp/Specs/archive/38_series/38.401/)
+- [TR 37.817, “Study on enhancement for data collection for NR and EN-DC,”](https://www.3gpp.org/ftp/Specs/archive/37_series/37.817/)
+- [TR 38.843, “Study on artificial intelligence (AI)/machine learning (ML) for NR air interface,”](https://www.3gpp.org/ftp/Specs/archive/38_series/38.843/)
+### AI/ML for the PHY
+- [A survey of wireless path loss prediction and coverage mapping methods (IEEE Communications Surveys & Tutorials)](https://doi.org/10.1109/SURV.2012.022412.00172)
+- [Scientific discovery in the age of artificial intelligence (Nature)](https://doi.org/10.1038/s41586-023-06221-2​)
+- [Towards Automated and Interpretable Pathloss Approximation Methods (AI4WCN)](https://openreview.net/pdf?id=M1WT5NZ4bj)
+- [Automatic detection of wireless transmissions (IEEE Access)](https://ieeexplore.ieee.org/abstract/document/8977513/)
 - [Learning approximate neural estimators for wireless channel state information (MLSP)](https://ieeexplore.ieee.org/iel7/8122073/8168099/08168144.pdf)
 - [Detection of Impaired OFDM Waveforms Using Deep Learning Receiver (IEEE SPAWC 2022)](https://ieeexplore.ieee.org/iel7/9833808/9833812/09834021.pdf)
 - [Deep learning-based packet detection and carrier frequency offset estimation in IEEE 802.11 ah (IEEE Access)](https://ieeexplore.ieee.org/iel7/6287639/6514899/09481949.pdf)
@@ -112,21 +126,16 @@ Machine Learning (ML) and Artificial Intelligence (AI) concepts are gradually be
 - [Learning site-specific probing beams for fast mmWave beam alignment (IEEE Transactions on Wireless Communications)](https://ieeexplore.ieee.org/iel7/7693/4656680/09690703.pdf)
 - [A Review of the State of the Art and Future Challenges of Deep Learning-Based Beamforming (IEEE Access)](https://ieeexplore.ieee.org/iel7/6287639/9668973/09845394.pdf)
 - [Machine Learning for Millimeter Wave and Terahertz Beam Management: A Survey and Open Challenges (IEEE Access)](https://ieeexplore.ieee.org/iel7/6287639/6514899/10036372.pdf)
+### AI/ML at the Application Layer
 - [COMSPLIT: A Communication-Aware SPLIT Learning for Heterogeneous IoT Platforms (IEEE Internet of Things Journal)](https://ieeexplore.ieee.org/iel8/6488907/6702522/10737108.pdf)
 - [Artificial Intelligence in 3GPP 5G-Advanced: A Survey](https://arxiv.org/pdf/2305.05092)
+- [TR22.874, “Study on traffic characteristics and performance requirements for AI/ML model transfer,”](https://www.3gpp.org/ftp/Specs/archive/22_series/22.874/)
+- [TS22.261, “Service requirements for the 5G system,”](https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/)
+### AI/ML-driven Network Management and Orchestration
+- [Demonstrating Smart Scaling of AI-Services for Future Networks](https://doi.org/10.1109/WCNC61545.2025.10978455)
 - [Enabling mobile AI agent in 6G era: Architecture and key technologies (IEEE Network)](https://ieeexplore.ieee.org/iel8/65/10680059/10599391.pdf)
 - [Intent-based management of next-generation networks: An LLM-centric approach (IEEE Network)](https://ieeexplore.ieee.org/iel8/65/7593428/10574890.pdf)
 - [Mobile-llama: Instruction fine-tuning open-source llm for network analysis in 5g networks (IEEE Network)](https://ieeexplore.ieee.org/iel8/65/7593428/10583947.pdf)
-- [TS 23.501, “System architecture for the 5G System (5GS),”](https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/)
-- [TS 29.520, “5G System; Network Data Analytics Services; Stage 3,”](https://www.etsi.org/deliver/etsi_ts/129500_129599/129552/18.06.00_60/ts_129552v180600p.pdf)
-- [TR23.700-80 Study on 5G System Support for AI/ML-based Services](https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-80/)
-- [TR23.700-81 Study of Enablers for Network Automation for the 5G System (5GS)](https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-81/)
-- [TS 38.401, “NG-RAN Architecture Description,”](https://www.3gpp.org/ftp/Specs/archive/38_series/38.401/)
-- [TR 37.817, “Study on enhancement for data collection for NR and EN-DC,”](https://www.3gpp.org/ftp/Specs/archive/37_series/37.817/)
-- [TR 38.843, “Study on artificial intelligence (AI)/machine learning (ML) for NR air interface,”](https://www.3gpp.org/ftp/Specs/archive/38_series/38.843/)
-- [TR22.874, “Study on traffic characteristics and performance requirements for AI/ML model transfer,”](https://www.3gpp.org/ftp/Specs/archive/22_series/22.874/)
-- [TS22.261, “Service requirements for the 5G system,”](https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/)
-
 
 
 
